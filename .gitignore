@@ -9,3 +9,7 @@
 __pycache__/
 *.pyo
 *.pyd
+
+# Ignore venv and env directories
+venv/
+env/

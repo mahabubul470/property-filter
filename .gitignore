@@ -1,0 +1,11 @@
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
